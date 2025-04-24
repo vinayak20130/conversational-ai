@@ -31,7 +31,7 @@ This application follows a client-server architecture:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vinayak20130/conversational-ai-assignment.git
+   git clone [https://github.com/vinayak20130/conversational-ai-assignment.git](https://github.com/vinayak20130/conversational-ai/)
    ```
 
 2. Create and activate a virtual environment:
